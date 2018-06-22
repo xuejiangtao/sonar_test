@@ -1,5 +1,5 @@
 projectKey=sonar_test
 serverUrl=http://localhost:9000
 dashboardUrl=http://localhost:9000/dashboard/index/sonar_test
-ceTaskId=AWPxxZ_BYo65CrAtHEL2
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWPxxZ_BYo65CrAtHEL2
+ceTaskId=AWQSb1LDYo65CrAtHEL3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWQSb1LDYo65CrAtHEL3
