@@ -1,7 +1,7 @@
 public class Increment{
+	int b = 1;
 	String a = "HelloWorld!";
 	public int DoSomething(int b){
-		int c;
 		return b + 1;
 	}
 	private print(){
